@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+}
+.heading,.lasagna,.ingredients {
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+}
+.heading{
+    font: bolder;
+    text-align: center;
+}
+.lasagna {
+    font: italic;
+}
+.lasagnaimg{
+    border: radius 50px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    
+}
+.people{
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+
+
+}
+
+.ingredients{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
